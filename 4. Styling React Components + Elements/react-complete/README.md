@@ -1,0 +1,1 @@
+This is a "Sandbox" used for learning and refining my skills in React. This project will undertake several updates and changes and be noted on each commit. 
